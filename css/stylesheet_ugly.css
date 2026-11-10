@@ -1,0 +1,20 @@
+body {
+    background-color:#ff2400;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+.big {
+    font-size: 300px;
+
+}
+.notasbig {
+    font-size: 100px;
+
+}
+.lessbig {
+    font-size: 50px;
+
+}
+
+/*Dieses Stylesheet soll hässlich aussehen.*/
